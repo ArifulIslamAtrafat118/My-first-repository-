@@ -1,0 +1,32 @@
+<h2		align="centre"	style="colour: red">	College	  Registration form</h2>
+<form		bgcolor="pink">	
+<p>	Name:
+<input		type="text"	value="user name"></p>
+<p>	college name:
+<input		type="text"></p>	
+<p>	email		address :
+<input		type="email">	</p>
+<p>	Password:
+<input		type="password"></p>	
+<p>
+<input		type="radio"	value="1st year">	1st <br>
+<input		type="radio"	value="2nd year">	2nd <br>
+<input		type="radio"	value="honours level">	honours level</p>	
+<p><b>	Subsect:</b>	<br>
+<input		type="checkbox"	value="English">	English	<br>	
+<input		type="checkbox"	value="Bangla">	Bangla	<br>	
+<input		type="checkbox"	value="Math">	Math	<br>	
+<input		type="checkbox"	value="physics">	Physics	<br>	
+<input		type="checkbox"	value="chemistry">	Chemistry	<br>	
+<input		type="checkbox"	value="biology">	Biology</p>
+
+<p>	<h3		style="colour: red"><b><big>	payment</big></b>	</h3></p>	
+<select>
+<option>	bikash</option>	
+<option>	Rocket</option>	
+<option>	Nagod</option>	
+</select>	
+<br>	
+<br>	
+<input		type="submit"	>
+</form>	&cedil;
